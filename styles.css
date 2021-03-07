@@ -1,0 +1,53 @@
+header {
+    background-color: #555555;
+    min-height: 100px;
+}
+header:hover{
+    background-color: #444;
+}
+
+header a {
+    align-content: center;
+    box-shadow: #555555;
+    color: aqua;
+}
+
+body {
+    width: 960px;
+    margin: auto;
+    align-content: center;
+    background: linear-gradient(90deg, #000, #222, #555);
+    color: linen;
+}
+
+section {
+    flex-direction: row;
+    align-content: center;
+    border-radius: 5px;
+    border: 2px solid #333;
+    background: black;
+
+    color: black;
+    display: inline-flex;
+}
+
+.block {
+    border-radius: 10px;
+    padding: 50px;
+    background: linear-gradient(#fff, #ddd, #eee);
+    margin: 20px;
+    display: inline-flex;
+    width: 50%;
+}
+.block:hover{
+    border-radius: 20px;
+    margin: 15px;
+}
+
+div {
+}
+
+.icon {
+    width: 200px;
+    height: auto;
+}
