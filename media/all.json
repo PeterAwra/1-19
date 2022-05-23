@@ -1,8 +1,8 @@
 [
   {
-    "packageApp": "io.github.peterawra.game2048",
+    "packageApp": "com.stud.awra.puzzle20",
     "icon": "https://peterawra.github.io/media/2048/icon.png",
-    "name": "2048"
+    "name": "Puzzle 2048"
   },
   {
     "packageApp": "com.awra.stud.game50",
