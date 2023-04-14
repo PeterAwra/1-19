@@ -19,6 +19,11 @@ fun main() {
                     "com.awra.stud.sudoku10",
                     "https://peterawra.github.io/media/sudoku/icon.jpg",
                     "Sudoku"
+                ),
+                AppGame(
+                    "com.stud.awra.blockpuzzle,
+                    "https://peterawra.github.io/media/blockpuzzle/icon.jpg",
+                    "Block Puzzle"
                 )
             )
         )
