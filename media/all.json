@@ -13,5 +13,10 @@
     "packageApp": "com.awra.stud.sudoku10",
     "icon": "https://peterawra.github.io/media/sudoku/icon.png",
     "name": "Sudoku"
+  },
+  {
+    "packageApp": "com.stud.awra.blockpuzzle",
+    "icon": "https://peterawra.github.io/media/blockpuzzle/icon.png",
+    "name": "Block Puzzle"
   }
 ]
