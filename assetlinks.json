@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.stud.awra.fortests",
+    "sha256_cert_fingerprints":
+    ["3F:78:DD:89:E2:69:3A:11:2E:88:BF:BC:07:02:80:FF:28:B7:A5:B1:53:FB:89:FA:2B:BA:61:CA:D2:60:DD:11"]
+  }
+}]
